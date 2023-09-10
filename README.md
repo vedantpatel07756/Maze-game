@@ -5,7 +5,7 @@ To create a README file for your GitHub repository for your small maze game proj
 
 
 
-Welcome to the Maze Game! This is a simple maze-solving game where players navigate through a maze to reach the goal. This project is a small trial project created by [Your Name] for fun and learning.
+Welcome to the Maze Game! This is a simple maze-solving game where players navigate through a maze to reach the goal. This project is a small trial project created by  for fun and learning.
 
 ## Table of Contents
 - [About](#about)
